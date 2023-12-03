@@ -1,4 +1,4 @@
-# Quizlet
+# BMI Calculator
 ## About
 BMI calculator where you can see results.
 
