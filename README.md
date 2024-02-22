@@ -11,6 +11,7 @@ BMI calculator where you can see results.
     - [Used technologies](./README.md#used-technologies)
     - [Run the app](./README.md#run-the-app)
 - [Note](./README.md#note)
+- [License](./README.md#license)
 
 ## App examples
 Examples photos of use are in [folder](./assets/images)
@@ -32,3 +33,6 @@ git clone https://github.com/Susannnnnna/Flutter_BmiCalculator
 Open application in Android Studio
 
 ## Note
+
+## License
+[MIT license](https://opensource.org/licenses/MIT)
